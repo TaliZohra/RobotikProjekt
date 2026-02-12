@@ -4,8 +4,8 @@
 **Gruppe**: [Namen der Teammitglieder]
 **Rollenverteilung**:
 - Vision Engineer: Magdalena Jahn
-- Control Engineer: [Name]
-- Safety Engineer: [Name]
+- Control Engineer: Wiebke Hülsen
+- Safety Engineer: Thies Hülsen
 
 ## 1. Systemübersicht
 
