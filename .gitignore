@@ -1,0 +1,42 @@
+### ROS 2 / colcon
+build/
+install/
+log/
+**/.ros/
+**/COLCON_IGNORE
+**/colcon_command_prefix_*.sh
+**/colcon_command_prefix_*.sh.env
+**/colcon_build.rc
+
+### Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.Python
+venv/
+.venv/
+.venv
+env/
+.env/
+**/venv/
+**/.venv/
+**/env/
+**/.env/
+pip-wheel-metadata/
+
+### IDEs & OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+### Misc
+*.log
+*.tmp
+
+### Tests & coverage
+**/.pytest_cache/
+.coverage
+coverage/
